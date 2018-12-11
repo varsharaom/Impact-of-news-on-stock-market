@@ -14,6 +14,13 @@ Generate a tfidf probability using the bag of words data.
 Train LDA using the tfid distribution.
 
 
+Instructions:
+
+1. Change path in cell 2 accordingly
+2. Run all cells sequentially 
+
+
+
 
 
 
